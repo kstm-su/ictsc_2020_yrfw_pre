@@ -1,0 +1,34 @@
+labels:
+  - name: Application
+    description: アプリケーションっぽいもの
+    color: fbb8a2
+  - name: Network
+    description: ネットワークっぽいもの
+    color: a32035
+  - name: Server
+    description: サーバサイドっぽいもの
+    color: 1951ba
+  - name: Research
+    description: 調べたりして回答するやつ
+    color: 19796a
+  - name: HELP!!!
+    description: 詰まった、助けて
+    color: ff0000
+  - name: Pending
+    description: ちょっと放置する
+    color: 48ADCB
+  - name: Done
+    description: 一応終わった
+    color: 714FEA
+
+repos:
+  - name: kstm-su/ictsc_2020_yrfw_pre
+    labels:
+      - Application
+      - Network
+      - Server
+      - Research
+      - HELP!!!
+      - Pending
+      - Done
+
